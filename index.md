@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/gregorycrane/ptest/edit/gh
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Sunburst
-link check [here][/tbburst.html)
+link check [here](/tbburst.html)
 ### Markdown
 
 
