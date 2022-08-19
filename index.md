@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Pharr 2.0
 
 You can use the [editor on GitHub](https://github.com/gregorycrane/ptest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
