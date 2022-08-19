@@ -13,6 +13,9 @@ You can find the source code for Minima at GitHub:
 You can find the cool sunburst at:
 [sunburst](../tbburst.html)
 
+You can find a Pharr viz at:
+[PharrViz](pharrviz/vocabulary-pharr09-Iliad-12.html)
+
 You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
