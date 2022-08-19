@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Pharr 2.0
 permalink: /about/
 ---
 
